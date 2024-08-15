@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Quality Hive",
-  "categories": ["ATTRIBUTION", "EXPERIMENTATION", "SESSION_RECORDING"]
+  "categories": ["ATTRIBUTION", "EXPERIMENTATION", "SESSION_RECORDING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Custom Template",
