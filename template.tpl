@@ -14,7 +14,6 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Quality Hive",
-  "categories": ["ATTRIBUTION", "EXPERIMENTATION", "SESSION_RECORDING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Custom Template",
@@ -311,6 +310,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 8/12/2024, 10:38:36 AM
+Created on 8/15/2024, 12:38:38 PM
 
 
