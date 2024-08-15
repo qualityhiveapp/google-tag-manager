@@ -1,5 +1,5 @@
 homepage: "https://qualityhive.com"
 documentation: "https://qualityhive.com/support"
 versions:
-  - sha: a126888b4f79d2faa81f17ebf110ac7d206be7a2
+  - sha: 1ddecf59384faded776b6cd503d66185f40e3506
     changeNotes: Initial release.
